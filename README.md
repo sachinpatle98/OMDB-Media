@@ -1,7 +1,7 @@
 # React + OMDB API
 <p>
-<a href="javascript:;"><img src="https://img.shields.io/github/issues/sachinpatle98/omdb-react"/></a>
-<a href="javascript:;"><img src="https://img.shields.io/github/stars/sachinpatle98/omdb-react"></a>
+<a href="javascript:;"><img src="https://img.shields.io/github/issues/jogeshpi03/omdb-react"/></a>
+<a href="javascript:;"><img src="https://img.shields.io/github/stars/jogeshpi03/omdb-react"></a>
 </p>
 
 A simple react application to find movies, series and episodes. I have used the [OMDB API](http://www.omdbapi.com) and it has certain amount of limits to fetching data. I have also used the **Ant Design** for UI.
