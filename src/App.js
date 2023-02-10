@@ -104,7 +104,7 @@ function App() {
                         }
                     </Modal>
                 </Content>
-                <Footer style={{ textAlign: 'center' }}>Sachin Movies ©2023</Footer>
+                <Footer style={{ textAlign: 'center' }}>Sachin©2023 All Rights Reserved</Footer>
             </Layout>
         </div>
     );
